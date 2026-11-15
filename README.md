@@ -1,5 +1,11 @@
 # Overclock
 
+I made a deck-builder about the AI-driven RAM shortage. You draw machine cards, place them on a folded factory belt, and turn sand into RAM sticks to fill each order before the shift ends. My favorite card is the Recycler: everything that reaches the bin goes round the belt once more.
+
+![Overclock: placing cards on a factory belt and running it](docs/hero.gif)
+
+Play it: [raysums.com/overclock](https://www.raysums.com/overclock/) · More of my work: [raysums.com](https://raysums.com)
+
 A small deck-builder about the RAM shortage in the age of AI.
 
 Every AI lab wants memory, and they all want it now. You run the factory that makes it. Sand goes in one end of a conveyor belt, machines along the way turn it into silicon, then a wafer, then a chip, then a RAM stick, and whatever reaches Shipping counts toward the order.
